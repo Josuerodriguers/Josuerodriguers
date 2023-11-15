@@ -2,8 +2,10 @@
 
 <!--
 **Josuerodriguers/Josuerodriguers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Josue
 
-
+Social Media
+ [![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/josuerodriguers/])]([https://www.linkedin.com/in/josuerodriguers/])
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
