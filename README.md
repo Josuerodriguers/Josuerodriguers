@@ -4,7 +4,7 @@
 
 ### 👋🏽 Um entusiasta da programação apaixonado por transformar linhas de código em soluções incríveis! 💻✨
 
-<div style="text-align:center">
+
 
 ### Social Media 👇🏽
 
@@ -12,22 +12,21 @@
     https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/josuerodriguers/)
 
-</div>
 
-<div style="text-align:center">
+
 
 ### Portifólio 👇🏽
 [![Profile Portifólio](
     https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white
 )](https://josuerodriguers-github-io.vercel.app/)
 
-</div>
+
 
 ### 🌱 Atualmente estou me formando como desenvolvedor Web fullstack.
-<div style="text-align:center">
+
 
 ### 👯 Tecnologias e ferramentas:
-</div>
+
 
   ![HTML]( 
     https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
