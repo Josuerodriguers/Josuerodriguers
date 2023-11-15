@@ -4,10 +4,6 @@
 **Josuerodriguers/Josuerodriguers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<img src="https://camo.githubusercontent.
-com/98f7cb85209d9a78dee089a14178527b893ad92de8760abbf646be2652920f59/68747470733a2f2f6769746875622d726561646d652d73746174732e766 5 7263656c2e6170702f6170693f757365726e616d653d706564726f2d68656e72697175652d612d73696c766126686964653d73746172732673686f775f 69636f6e733d74727565267468656d653d61707072656e74696365266c696e655f6865696768743d3332" alt="informação"
-, pull requests, issue e contribuições" data-canonical-src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-a-silva&hide=stars&show_icons=true&theme=apprentice&line_height=32" estilo ="largura máxima: 100%;">
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
