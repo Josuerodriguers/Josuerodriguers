@@ -57,20 +57,5 @@
     https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )
 
-
-
-<picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuerodriguers&theme=blue-green)
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Josuerodriguers&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Josuerodriguers&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Josuerodriguers&show_icons=true" />
-</picture>
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuerodriguers&show_icons=true&theme=transparent)
+![Josuerodriguers GitHub stats](https://github-readme-stats.vercel.app/api?username=josuerodriguers&show_icons=true&theme=transparent)
