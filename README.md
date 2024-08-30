@@ -19,7 +19,7 @@
 
 
 
-### 🌱 Atualmente estou me formando como desenvolvedor Web fullstack.
+### 🌱Desenvolvedor Web FullStack.
 
 
 ### 👯 Tecnologias e ferramentas:
